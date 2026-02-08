@@ -1,0 +1,20 @@
+[
+  {
+    "title": "RailTrack",
+    "subtitle": "railtrack.de",
+    "description": "Fleet management and tracking solution for logistics companies",
+    "imageSrc": "/images/project-3.webp",
+    "tags": ["Closed Source", "Commercial"],
+    "market": ["International"],
+    "href": "https://railtrack.de"
+  },
+  {
+    "title": "Meisterseite",
+    "subtitle": "meisterseite.app",
+    "description": "Digital platform connecting skilled tradespeople with customers",
+    "imageSrc": "/images/project-4.webp",
+    "tags": ["Closed Source", "Commercial"],
+    "market": ["DE"],
+    "href": "https://meisterseite.app/"
+  }
+]
